@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ex2_17521044_bai1</string>
+    <string name="hello">\@string/hello</string>
+</resources>
